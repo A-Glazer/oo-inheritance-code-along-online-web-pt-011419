@@ -6,7 +6,7 @@ class Vehicle
     @wheel_number = wheel_number
   end
 
-  def go 
+  def go
     "vrrrrrrrooom!"
   end
 
@@ -14,5 +14,5 @@ class Vehicle
     "filling up!"
   end
 
-  
+
 end
